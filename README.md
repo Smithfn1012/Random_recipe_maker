@@ -1,4 +1,3 @@
-Random Recipes
 Random Recipes allows a user to store their favorite recipes or find recipes based on an ingredient they have at their house. It was built with indecisive folks in mind.
 
 This app utilizes a Rails API back-end with a PostgreSQL database, as well as a Javascript front-end.
